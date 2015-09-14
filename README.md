@@ -1,2 +1,1 @@
-# hello-word
-first github rep
+hop hop hop i am commiting...
